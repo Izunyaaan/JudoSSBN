@@ -1815,7 +1815,7 @@ section {
   }
 }
 
-section:nth-of-type(even) {
+section:nth-of-type(odd) {
   background: url("../img/main-bg.svg") top left;
   background-size: cover;
   position: relative;
