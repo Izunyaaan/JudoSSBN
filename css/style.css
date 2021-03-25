@@ -1814,3 +1814,9 @@ section {
     padding: 2px 0;
   }
 }
+
+section:nth-of-type(even) {
+  background: url("../img/main-bg.svg") top left;
+  background-size: cover;
+  position: relative;
+}
