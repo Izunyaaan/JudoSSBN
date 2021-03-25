@@ -1815,8 +1815,7 @@ section {
   }
 }
 
-body {
-  background: url("../img/main-bg.svg");
-  background-repeat: repeat-y;
-  background-size: 100vw 100vh;
+section:nth-of-type(odd) {
+  background: url("../img/main-bg.svg") center;
+  background-size: cover;
 }
