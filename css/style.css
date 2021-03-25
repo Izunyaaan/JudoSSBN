@@ -1816,6 +1816,7 @@ section {
 }
 
 html {
-  background: url("../img/main-bg.svg") center;
+  background: url("../img/main-bg.svg");
   background-repeat: repeat-y;
+
 }
