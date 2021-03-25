@@ -1816,7 +1816,6 @@ section {
 }
 
 section:nth-of-type(odd) {
-  background: url("../img/main-bg.svg") top left;
+  background: url("../img/main-bg.svg") center;
   background-size: cover;
-  position: relative;
 }
