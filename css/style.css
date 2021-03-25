@@ -1818,5 +1818,5 @@ section {
 html {
   background: url("../img/main-bg.svg");
   background-repeat: repeat-y;
-
+  background-size: auto;
 }
