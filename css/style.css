@@ -1815,7 +1815,7 @@ section {
   }
 }
 
-html {
+body {
   background: url("../img/main-bg.svg");
   background-repeat: repeat-y;
   background-size: 100vw 100vh;
