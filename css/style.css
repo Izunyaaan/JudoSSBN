@@ -1829,5 +1829,6 @@ section:nth-of-type(odd) {
 }
 
 .limit{
-  height: 400px;
+  max-height: 600px;
+  overflow-y: scroll;
 }
