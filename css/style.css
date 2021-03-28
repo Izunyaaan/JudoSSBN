@@ -1823,6 +1823,6 @@ section:nth-of-type(odd) {
 
 .responsive-image{
   width:100%;
-  -webkit-filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.1) );
-  filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.1));
+  -webkit-filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.9) );
+  filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.9));
 }
