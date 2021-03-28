@@ -1823,10 +1823,10 @@ section:nth-of-type(odd) {
 
 .responsive-image{
   width:100%;
-  border-bottom-width:3px;
+  border-bottom-width:6px;
   border-bottom-style:ridge;
   border-bottom-color:#1DB3A9;
-  border-right-width:3px;
+  border-right-width:6px;
   border-right-style:ridge;
   border-right-color:#1DB3A9;
 }
