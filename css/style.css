@@ -1827,3 +1827,7 @@ section:nth-of-type(odd) {
   -webkit-filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.9) );
   filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.9));
 }
+
+.limit{
+  height: 400px;
+}
